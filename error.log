@@ -1,0 +1,2 @@
+[2025-01-30 11:54:06] Erreur SQL : SQLSTATE[42S22]: Column not found: 1054 Champ 'societe' inconnu dans field list
+[2025-01-30 11:59:57] Erreur SQL : SQLSTATE[42S22]: Column not found: 1054 Champ 'societe' inconnu dans field list
